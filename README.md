@@ -1,10 +1,6 @@
-# burntlobster.sol
-
-About 
-
 Burnt Lobster 🔥🦞 is a fast burning token part of the $PYRO burn bot ecosystem.
 
-Burnt Lobster 🔥🦞 Tokenomics 
+Tokenomics 
 
 1% Marketing
 2% To 🔥🦞 LP Pool
